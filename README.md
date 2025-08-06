@@ -5,7 +5,7 @@ A modern, production-ready starter template built with **Nuxt 4**, featuring Gra
 ## 🚀 Features
 
 - **[Nuxt 4](https://nuxt.com)** - The latest version of the Vue.js meta-framework
-- **[Nitro GraphQL](https://github.com/unjs/nitro-graphql)** - Native GraphQL support for Nitro server
+- **[Nitro GraphQL](https://github.com/productdevbook/nitro-graphql)** - Native GraphQL support for Nitro server
 - **[Better Auth](https://better-auth.com)** - Modern authentication system with social providers
 - **[Drizzle ORM](https://orm.drizzle.team)** - TypeScript ORM with SQL-like syntax
 - **[Pinia Colada](https://pinia-colada.vuejs.org)** - Smart data fetching and caching for Pinia
@@ -100,8 +100,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 Email: support@example.com
-- 💬 Discord: [Join our server](https://discord.gg/example)
 - 🐛 Issues: [GitHub Issues](https://github.com/productdevbook/better-nuxt-graphql-starter-kit/issues)
 
 ---
