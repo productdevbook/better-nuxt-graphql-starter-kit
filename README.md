@@ -1,5 +1,7 @@
 # Better Nuxt GraphQL Starter Kit
 
+> ⚠️ **Work in Progress** - This project is currently under active development and not yet ready for production use.
+
 A modern, production-ready starter template built with **Nuxt 4**, featuring GraphQL API, authentication, database management, file uploads, and state management.
 
 ## 🚀 Features
